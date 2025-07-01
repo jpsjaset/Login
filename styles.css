@@ -4,4 +4,12 @@ body{
 }
 div{
     background-color: rgb(255, 145, 0);
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: beige;
+
 }
