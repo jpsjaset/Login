@@ -9,7 +9,7 @@ div{
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 100px;
-    border-radius: 15px;
-    color: rgb(180, 19, 19);
+    border-radius: 50px;
+    color: rgb(55, 100, 58);
 
 }
